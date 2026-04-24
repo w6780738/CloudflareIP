@@ -1,5 +1,5 @@
 //推荐使用Pages上传部署（如需wokers部署或反复部署就删除默认节点代码），无需自定义域名而且稳定
-//默认UUID：04c808e2-0b59-47b0-a54b-32fc7ef1c902 建议部署时修改
+//默认UUID：'66c6b4cd-900a-4dcb-95f2-a59c897e4e1 建议部署时修改
 //默认反代IP：proxyip.cmliussss.net 无特殊要求无须修改
 //部署后用手搓CF节点生成器(https://sub.cndyw.ggff.net/)生成节点导入到v2ray或karing中使用
 //默认节点显示路径：https://部署域名/sub
